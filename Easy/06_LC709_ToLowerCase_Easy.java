@@ -1,0 +1,8 @@
+// LeetCode 709: To Lower Case (Easy)
+class Solution {
+    public String toLowerCase(String s) {
+
+        return s.toLowerCase();
+
+    }
+}
